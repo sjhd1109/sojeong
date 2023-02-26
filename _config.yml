@@ -9,10 +9,10 @@ version: 2
 name: Sojeong Kim
 title: Data Analyst
 email: sjhd1109@gmailc.om
-website: www.github.com/sproogen/resume-theme
+website: https://sjhd1109.github.io/sojeong/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
