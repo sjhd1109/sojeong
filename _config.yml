@@ -1,14 +1,14 @@
 # Site
-repository: sproogen/resume-theme
+repository: sjhd1109/sojeong
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Sojeong Kim
+title: Data Analyst
+email: sjhd1109@gmailc.om
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
