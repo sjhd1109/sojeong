@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Sojeong Kim
-title: Data Analyst
+name: 김소정(Sojeong Kim)
+title: Data Analyst / CSS modeler
 email: sjhd1109@gmailc.om
 website: https://sjhd1109.github.io/sojeong/
 
@@ -15,28 +15,17 @@ website: https://sjhd1109.github.io/sojeong/
 darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  sjhd1109
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
 linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -48,8 +37,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  금융 데이터 분석을 기반으로 다양한 평가모델과 타겟모델 구축의 퍼포먼스를 내는 데이터 분석가 입니다. 
+  2년간의 금융권 심사 및 대출 상담 업무와 디지털 퍼포먼스 담당을 통해 데이터 분석에서 <mark>데이터 이해</mark>를 가장 중요하게 생각하고 있습니다. 
+  분석하고자 하는 목적과 그 대상이 원하는 전체적인 프로세스를 가장 우선적으로 이해하고자 하는 <mark>서비스 기반의 데이터 분석가</mark> 입니다. 
+  현재는 신용평가, 연체모형 등의 전통적인 모형 뿐만 아니라 다양한 서비스 관련 모형과 ESG 모형 등의 새로운 모형 개발까지 확장하여 
+  다양한 모형 개발을 하는 업무를 하고 있습니다.
+  
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
