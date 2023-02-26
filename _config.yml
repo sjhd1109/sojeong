@@ -35,7 +35,7 @@ linkedin_username: jameswgrant
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: 김소정_사진.png
 about_content: | # this will include new lines to allow paragraphs
   금융 데이터 분석을 기반으로 다양한 평가모델과 타겟모델 구축의 퍼포먼스를 내는 데이터 분석가 입니다. 
   2년간의 금융권 심사 및 대출 상담 업무와 디지털 퍼포먼스 담당을 통해 데이터 분석에서 <mark>데이터 이해</mark>를 가장 중요하게 생각하고 있습니다. 
